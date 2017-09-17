@@ -8,4 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [September 16, Saturday, 2017
 Started working on the "CatPhotoApp" by freeCodeCamp.
 
 ### R1D2
-Finished working on the "CatPhotoApp" by freeCodeCamp.
+Finished working on the "CatPhotoApp" by freeCodeCamp. STarted building a tribute page at https://codepen.io/Kaetschap/pen/veNjjZ.
