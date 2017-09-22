@@ -15,3 +15,6 @@ Continued building the tribute page. Added content and gray area in the middle, 
 
 ### R1D4
 Focused on trying out the decorator pattern. Learned about the difference between abstract classes and interfaces: Abstract classes can inherit their non-abstract classes to the classes implementing them whereas interface methods are not allowed a method body. Thus, each method needs to be implemented in the class implementing the interface. This is disadvantageous if one method stays the same across all subclasses implementing it.
+
+### R1D5
+Made myself a hackerrank profile and completed the first challenge: Array Left Rotation https://www.hackerrank.com/challenges/ctci-array-left-rotation/submissions/code/54915195
