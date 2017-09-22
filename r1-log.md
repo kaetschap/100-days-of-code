@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - kaetschap
 
 The log of my #100DaysOfCode challenge. Started on [September 16, Saturday, 2017].
 
@@ -18,3 +18,6 @@ Focused on trying out the decorator pattern. Learned about the difference betwee
 
 ### R1D5
 Made myself a hackerrank profile and completed the first challenge: Array Left Rotation https://www.hackerrank.com/challenges/ctci-array-left-rotation/submissions/code/54915195
+
+### R1D6
+Learned about closures in javascript; Looked at example decorator pattern from "Head First: Design Patterns".
