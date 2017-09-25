@@ -21,3 +21,9 @@ Made myself a hackerrank profile and completed the first challenge: Array Left R
 
 ### R1D6
 Learned about closures in javascript; Looked at example decorator pattern from "Head First: Design Patterns".
+
+### R1D7
+Started matrix excercise on exercism. Got most working, but it's not very elegant and there are some special cases left to consider.
+
+### R1D8
+Started doing the freeCodeCamp backend intro with how-to-npm. It won't publish the package.
